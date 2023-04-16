@@ -1,0 +1,18 @@
+# Ignore the DSP_SLAM/dataset/ directory
+DSP_SLAM/dataset/
+
+# Ignore all files with the .mp4 extension
+*.mp4
+
+# Ignore the Nerf/nerf-pytorch/ directory
+Nerf/nerf-pytorch/
+
+# Ignore the DeepLearningforVision/ directory
+DeepLearningforVision/Assignments/
+
+# Ignore the Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning [pre-pub version]-MIT Press (2016).pdf file
+Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning [pre-pub version]-MIT Press (2016).pdf
+
+# Ignore all files with the .pdf extension
+*.pdf
+
