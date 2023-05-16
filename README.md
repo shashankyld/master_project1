@@ -15,5 +15,6 @@ sudo apt-get autoremove && sudo apt-get autoclean
 ### 2. Downloading specific CUDA version
 ### Install build essentials
 
-```sudo apt-get install g++ freeglut3-dev build-essential libx11-dev libxmu-dev libxi-dev libglu1-mesa libglu1-mesa-dev
+```
+sudo apt-get install g++ freeglut3-dev build-essential libx11-dev libxmu-dev libxi-dev libglu1-mesa libglu1-mesa-dev
 ```
