@@ -10,7 +10,6 @@ rm -rf /usr/local/cuda*
 sudo apt-get autoremove && sudo apt-get autoclean
 ```
 ### Now you need to reboot
-### reboot
 
 ### 2. Downloading specific CUDA version
 ### Install build essentials
